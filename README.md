@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/samhope-evans/Space%20Game/_apis/build/status/futuredesignUK.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/samhope-evans/Space%20Game/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
